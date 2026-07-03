@@ -4,6 +4,10 @@ An AI-powered Resume Screening and Candidate Ranking System built using Python, 
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://ai-resume-intelligence-hr.streamlit.app
+
 ## 📌 Overview
 
 This application helps recruiters compare resumes against a Job Description and identify the most suitable candidates automatically.
